@@ -1,6 +1,7 @@
-# flutter_posresto_app_v2
+Aplikasi POS ini memungkinkan pelanggan memesan makanan melalui perangkat, sementara staf melacak pesanan, memproses pembayaran, dan mengelola inventaris. Fitur utama meliputi pemesanan online, integrasi pembayaran, dan pelaporan penjualan, yang meningkatkan kecepatan layanan dan akurasi operasional restoran.
 
-A new Flutter project.
+
+![Shot 1 (1)](https://github.com/user-attachments/assets/d4446337-774a-4b28-b12f-a36e277f898f)
 
 ## Getting Started
 
