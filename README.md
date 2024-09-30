@@ -3,6 +3,10 @@ Aplikasi POS ini memungkinkan kasir mengelola pesanan ,memproses pembayaran, dan
 
 ![Shot 1 (1)](https://github.com/user-attachments/assets/d4446337-774a-4b28-b12f-a36e277f898f)
 
+
+Demo Apps:
+https://www.youtube.com/watch?v=CxU8DB1hE8g
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
